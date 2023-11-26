@@ -74,6 +74,11 @@ export default function LoginForm() {
             </>
           )}
         </div>
+        <div className="text-red-500">
+          <p>For testing use this credentials</p>
+          <p>email: user@nextmail.com</p>
+          <p>password: 123456</p>
+        </div>
       </div>
     </form>
   );
